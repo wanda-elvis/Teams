@@ -1,47 +1,53 @@
-##Team Collaboration Groups##
+## Team Collaboration Groups
 
 In the pursuit of mastering DevOps and Cloud Engineering, we have organized our members into collaborative study groups. 
 Each group is designed to foster teamwork, enhance learning, and facilitate the successful completion of assignments. 
 These groups provide a platform for sharing knowledge, discussing complex topics, and working together on practical exercises.
 
-
 ### Group A
 
-| Name                               | Country     |
-|------------------------------------|-------------|
-| Shantine                           |             |
-| Arnaud Bertin Kamkuimo             |             |
-| IBRAHIM ABULMA-AL ABDUL SAMED      |             |
-| Achamba Hartman                    |             |
-| Isaac Mbuyamba                     |             |
-| Esther Benny                       |             |
+| Position      | Name                               | Country     |
+|---------------|------------------------------------|-------------|
+| Member        | Shantine                           |             |
+| Member        | Arnaud Bertin Kamkuimo             |             |
+| Member        | IBRAHIM ABULMA-AL ABDUL SAMED      |             |
+| Member        | Achamba Hartman                    |             |
+| Member        | Isaac Mbuyamba                     |             |
+| Member        | Esther Benny                       |             |
 
 ### Group B
 
-| Name                               | Country     |
-|------------------------------------|-------------|
-| Desmond Gwanulla                   |             |
-| Dang Hau Phan                      |             |
-| Shanakay                           |             |
-| Shenel                             |             |
-| Sahil                              |             |
-| Junior Neba                        |             |
+| Position      | Name                               | Country     |
+|---------------|------------------------------------|-------------|
+| Member        | Desmond Gwanulla                   |             |
+| Member        | Dang Hau Phan                      |             |
+| Member        | Shanakay                           |             |
+| Member        | Shenel                             |             |
+| Member        | Sahil                              |             |
+| Member        | Junior Neba                        |             |
 
 ### Group C
 
-| Name                               | Country     |
-|------------------------------------|-------------|
-| Mike                               |             |
-| Bertrand Benla                     |             |
-| Lino White                         |             |
-| Elizabeth                          |             |
-| Ben                                |             |
-| Claudia                            |             |
+| Position      | Name                               | Country     |
+|---------------|------------------------------------|-------------|
+| Member        | Mike                               |             |
+| Member        | Bertrand Benla                     |             |
+| Member        | Lino White                         |             |
+| Member        | Elizabeth                          |             |
+| Member        | Ben                                |             |
+| Member        | Claudia                            |             |
 
 ### Group D
 
-| Name                               | Country     |
-|------------------------------------|-------------|
-| Patricia Chinemerem Akalawu        |             |
-| Oduma Freeborn                     |             |
-| Wanda Elvis                        |             |
+| Position      | Name                               | Country     |
+|---------------|------------------------------------|-------------|
+| Member        | Patricia Chinemerem Akalawu        |             |
+| Member        | Oduma Freeborn                     |             |
+| Member        | Wanda Elvis                        |             |
+
+
+
+By engaging actively in these groups, you will not only enhance your technical skills but also build strong professional relationships that are 
+crucial in the field of DevOps and Cloud Engineering. Let’s collaborate, learn, and succeed together!
+
+
