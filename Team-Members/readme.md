@@ -9,9 +9,9 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
 | Member        | Shantine                           |             |
-| Member        | Arnaud Bertin Kamkuimo             |             |
+|Team Lead      | Arnaud Bertin Kamkuimo             | Canada      |
 | Member        | IBRAHIM ABULMA-AL ABDUL SAMED      |             |
-| Member        | Achamba Hartman                    |             |
+| Assistant     | Achamba Hartman                    | Canada      |
 | Member        | Isaac Mbuyamba                     |             |
 | Member        | Esther Benny                       |             |
 
