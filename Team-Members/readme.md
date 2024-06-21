@@ -30,7 +30,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Member        | Mike                               |             |
+| Member        | Mike                               | U.S.A       |
 | Member        | Bertrand Benla                     |             |
 | Member        | Lino White                         |             |
 | Member        | Elizabeth                          |             |
