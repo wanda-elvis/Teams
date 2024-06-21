@@ -19,12 +19,12 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Member        | Desmond Gwanulla                   |             |
-| Member        | Dang Hau Phan                      |             |
-| Member        | Shanakay                           |             |
-| Member        | Shenel                             |             |
-| Member        | Sahil                              |             |
-| Member        | Junior Neba                        |             |
+| Member        | Desmond Gwanulla                   | U.S.A       |
+| Member        | Dang Hau Phan                      | Canada      |
+| Member        | Shanakay                           | Canada      |
+| Member        | Shenel                             | Canada      |
+| Member        | Sahil                              | Canada      |
+| Member        | Junior Neba                        | Canada      |
 
 ### Group C
 
