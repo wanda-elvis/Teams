@@ -8,12 +8,12 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Member        | Shantine                           |             |
+| Member        | Shantine                           | Canada      |
 |Team Lead      | Arnaud Bertin Kamkuimo             | Canada      |
 | Member        | IBRAHIM ABULMA-AL ABDUL SAMED      |             |
 | Assistant     | Achamba Hartman                    | Canada      |
 | Member        | Isaac Mbuyamba                     |             |
-| Member        | Esther Benny                       |             |
+| Member        | Esther Benny                       | Canada      |
 
 ### Group B
 
@@ -30,7 +30,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Member        | Mike                               |             |
+| Member        | Mike                               | U.S.A       |
 | Member        | Bertrand Benla                     |             |
 | Member        | Lino White                         |             |
 | Member        | Elizabeth                          |             |
