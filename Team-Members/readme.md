@@ -31,8 +31,8 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
 | Member        | Mike                               |             |
-| Member        | Bertrand Benla                     |             |
-| Member        | Lino White                         |             |
+| Assitant      | Bertrand Benla                     | U.S.A       |
+| Team Lead     | Lino White                         | U.S.A       |
 | Member        | Elizabeth                          |             |
 | Member        | Ben                                |             |
 | Member        | Claudia                            |             |
