@@ -20,9 +20,9 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
 | Member        | Desmond Gwanulla                   | U.S.A       |
-| Member        | Dang Hau Phan                      | Canada      |
+| Team Lead     | Dang Hau Phan                      | Canada      |
 | Member        | Shanakay                           | Canada      |
-| Member        | Shenel                             | Canada      |
+| Assistant     | Shenel                             | Canada      |
 | Member        | Sahil                              | Canada      |
 | Member        | Junior Neba                        | Canada      |
 
@@ -41,9 +41,9 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Member        | Patricia Chinemerem Akalawu        |             |
-| Member        | Oduma Freeborn                     |             |
-| Member        | Wanda Elvis                        |             |
+| Team Lead     | Patricia Chinemerem Akalawu        | Nigeria     |
+| Member        | Oduma Freeborn                     | Nigeria     |
+| Member        | Wanda Elvis                        | Finlamd     |
 
 
 
